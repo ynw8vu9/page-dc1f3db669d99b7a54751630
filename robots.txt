@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.dyikglv.cn/sitemap.xml
